@@ -1,0 +1,11 @@
+{
+  "name": "bunny-the-game",
+  "version": "1.0.0",
+  "description": "Bunny the Game - © 2026 Lorenzo Avilia. Tutti i diritti riservati.",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}

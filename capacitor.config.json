@@ -1,0 +1,7 @@
+{
+  "appId": "it.avilia.bunnycannon",
+  "appName": "Bunny the Game",
+  "webDir": "www",
+  "backgroundColor": "#58b4f5",
+  "android": { "allowMixedContent": false }
+}
